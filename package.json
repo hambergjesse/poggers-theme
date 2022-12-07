@@ -1,0 +1,21 @@
+{
+  "name": "poggers-theme",
+  "displayName": "poggers-theme",
+  "description": "the poggiest theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "poggers-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/poggers-theme-color-theme.json"
+      }
+    ]
+  }
+}
